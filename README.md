@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **C++, Python, DSA, SQL and Kotlin**
 
-- 📫 How to reach me **coding.with.t@gmail.com**
+- 📫 How to reach me **talhaboss60@gmail.com**
 
 - ⚡ Fun fact **My code 80-85% works without dry run even on LeetCode.**
 
