@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **talhaboss60@gmail.com**
 
-- ⚡ Fun fact **My code 80-85% works without dry run even on LeetCode.**
+- ⚡ Fun fact **I'm not funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
