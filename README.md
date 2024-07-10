@@ -27,7 +27,7 @@
 <a href="https://instagram.com/pro___gambler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pro___gambler" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/talhaboss60" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="talhaboss60" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/progambler227788" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="progambler227788" height="30" width="40" /></a>
-<a href="https://www.fiverr.com/crazybuyer22" target="blank"><img align="center" src="https://th.bing.com/th/id/R.e94650894dcaab974fd16177a1537ba9?rik=nV63pfUk3Khvow&riu=http%3a%2f%2ffreelogopng.com%2fimages%2fall_img%2f1656739257fiverr-logo-transparent.png&ehk=pe52R7ZhkA8lhS1LqDg2ttQ9ZYApSscF9ZbPkcV6n34%3d&risl=&pid=ImgRaw&r=0" alt="muhammad_talha_atif" height="30" width="40" /></a>
+<a href="https://www.fiverr.com/crazybuyer22" target="blank"><img align="center" src="https://th.bing.com/th/id/R.e94650894dcaab974fd16177a1537ba9?rik=nV63pfUk3Khvow&riu=http%3a%2f%2ffreelogopng.com%2fimages%2fall_img%2f1656739257fiverr-logo-transparent.png&ehk=pe52R7ZhkA8lhS1LqDg2ttQ9ZYApSscF9ZbPkcV6n34%3d&risl=&pid=ImgRaw&r=0" alt="muhammad_talha_atif" height="50" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
