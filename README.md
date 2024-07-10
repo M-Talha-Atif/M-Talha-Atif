@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Client Projects**
+- 🔭 I’m currently working on **Client Projects on Fiverr**
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👯 I’m looking to collaborate on **Android Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Progambler227788](https://github.com/Progambler227788)
 
-- 💬 Ask me about **C++, Python, DSA, SQL and Kotlin**
+- 💬 Ask me about **C++, Python, DSA, SQL, PHP and Kotlin**
 
 - 📫 How to reach me **talhaboss60@gmail.com**
 
