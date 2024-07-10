@@ -1,23 +1,6 @@
 <h1 align="center">Hi 👋, I'm M.Talha Atif</h1>
 <h3 align="center">A passionate android developer from Lahore, Pakistan</h3>
 
-<!-- Put this code anywhere in the body of your page where you want the badge to show up. -->
-
-<div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'>
-     <a itemprop='url' href=https://www.fiverr.com/crazybuyer22 rel="nofollow" target="_blank" style='display: inline-block;'>
-        <div class='fiverr-seller-content' id='fiverr-seller-widget-content-d412057b-3650-4942-a808-bedf056a024f' itemprop='contentURL' style='display: none;'></div>
-        <div id='fiverr-widget-seller-data' style='display: none;'>
-            <div itemprop='name' >crazybuyer22</div>
-            <div itemscope itemtype='http://schema.org/Organization'><span itemprop='name'>Fiverr</span></div>
-            <div itemprop='jobtitle'>Seller</div>
-            <div itemprop='description'>I am problem solver with experience in programming languages including C, C++, C#, Java, Python, Flutter and Kotlin. I have worked on a variety of projects such as Battleship game, Conway's Game of Life, PDF to text conversion, QR code generator, Pest Application, Lexical Analyzer and Management Systems.
-
-If you need assistance with your programming tasks, I am here to help. My goal is to provide high-quality work and friendly customer support to ensure my clients' satisfaction. Please feel free to message me to check my portfolio.</div>
-        </div>
-    </a>
-</div>
-
-<script id='fiverr-seller-widget-script-d412057b-3650-4942-a808-bedf056a024f' src='https://widgets.fiverr.com/api/v1/seller/crazybuyer22?widget_id=d412057b-3650-4942-a808-bedf056a024f' data-config='{"category_name":"\n                                    Programming \u0026 Tech\n\n                            "}' async='true' defer='true'></script>
 
 <img align="right" alt="Coding" width="350" src="https://miro.medium.com/v2/resize:fit:1600/0*C-cPP9D2MIyeexAT.gif"  /> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=progambler227788&label=Profile%20views&color=0e75b6&style=flat" alt="progambler227788" /> </p>
