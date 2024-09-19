@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Talha Atif</h1>
 <h3 align="center">A passionate android developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=progambler227788&label=Profile%20views&color=0e75b6&style=flat" alt="progambler227788" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=progambler227788&label=Profile%20views&color=0e75b6&style=flat&theme=dark&show_icons=true" alt="progambler227788" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=progambler227788" alt="progambler227788" /></a> </p>
 
