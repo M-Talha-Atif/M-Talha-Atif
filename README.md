@@ -1,11 +1,11 @@
 <div align="center">
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3300&pause=900&color=7F3ACE&width=435&lines=Muhammad+Talha+Atif+%3A);Passionate+Android+Developer+%F0%9F%98%8A;Exploring+Competitive+Programming+%F0%9F%91%BD;+Exploring+new+things+%F0%9F%8E%AF" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3800&pause=1000&color=7F3ACE&width=435&lines=Muhammad+Talha+Atif+%3A);Passionate+Android+Developer+%F0%9F%98%8A;Exploring+Competitive+Programming+%F0%9F%91%BD;+Exploring+new+things+%F0%9F%8E%AF" alt="Typing SVG" /></a>
   
 </div>
 
 <div align="center">
-<img align="center" alt="Coding" width="450" height="450" src="https://miro.medium.com/v2/resize:fit:1600/0*C-cPP9D2MIyeexAT.gif"  /> 
+<img align="center" alt="Coding" width="350" height="350" src="https://miro.medium.com/v2/resize:fit:1600/0*C-cPP9D2MIyeexAT.gif"  /> 
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=progambler227788&label=Profile%20views&color=0e75b6&style=flat&theme=midnight-purple&show_icons=true" alt="progambler227788" /> </p>
