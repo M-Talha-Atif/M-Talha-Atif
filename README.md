@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Muhammad Talha Atif</h1>
-<h3 align="center">A passionate android developer from Pakistan</h3>
+<h1 align="center"><font color="#7F3ACE">Hi 👋, I'm Muhammad Talha Atif</font></h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F3ACE&width=435&lines=Passionate+Android+Developer;Exploring+Competitive+Programming;Always+learning+new+things;I+enjoy+taking+part+in+coding+competitions." alt="Typing SVG" /></a>
 
 <div align="center">
 <img align="center" alt="Coding" width="350" src="https://miro.medium.com/v2/resize:fit:1600/0*C-cPP9D2MIyeexAT.gif"  /> 
