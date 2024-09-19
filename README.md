@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Talha Atif</h1>
 <h3 align="center">A passionate android developer from Pakistan</h3>
 
-<div align-"center">
+<div align="center">
 <img align="center" alt="Coding" width="350" src="https://miro.medium.com/v2/resize:fit:1600/0*C-cPP9D2MIyeexAT.gif"  /> 
 </div>
 
