@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=progambler227788&label=Profile%20views&color=0e75b6&style=flat&theme=dark&show_icons=true" alt="progambler227788" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=progambler227788" alt="progambler227788" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=progambler227788&theme=midnight-purple" alt="progambler227788" /></a> </p>
 
 - 🔭 I’m currently working on [Job Portal Platform](https://github.com/Progambler227788/JobClientSide)
 
@@ -42,6 +42,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=progambler227788&show_icons=true&locale=en&layout=compact" alt="progambler227788" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=progambler227788&show_icons=true&locale=en" alt="progambler227788" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=progambler227788&show_icons=true&theme=midnight-purple&locale=en" alt="progambler227788" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=progambler227788&" alt="progambler227788" /></p>
