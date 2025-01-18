@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=progambler227788&theme=midnight-purple" alt="progambler227788" /></a> </p>
 
-- 🔭 I’m currently working on [Job Portal Platform](https://github.com/Progambler227788/JobClientSide)
+- 🔭 I’m currently working on Spring Boot
 
 - 🌱 I’m currently learning **Machine learning and Kotlin**
 
