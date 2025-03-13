@@ -1,6 +1,7 @@
 <div align="center">
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3800&pause=1000&color=7F3ACE&width=435&lines=Muhammad+Talha+Atif+%3A);Passionate+Android+Developer+%F0%9F%98%8A;Exploring+Competitive+Programming+%F0%9F%91%BD;+Exploring+new+things+%F0%9F%8E%AF" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3800&pause=1000&color=7F3ACE&width=500&lines=Muhammad+Talha+Atif+%3A);+++%F0%9F%98%8A;Code.+Build.+Solve.+Repeat.+%F0%9F%9A%80;Breaking+bugs,+not+dreams!+%F0%9F%91%BD;Turning+Logic+into+Reality!+%E2%9C%A8;" alt="Typing SVG" /></a>
+
   
 </div>
 
