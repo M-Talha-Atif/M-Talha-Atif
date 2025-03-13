@@ -17,17 +17,17 @@
 
 - 🌱 I’m currently learning **Machine learning and Kotlin**
 
-- 👯 I’m looking to collaborate on **Android Projects**
+- 👯 I’m open to collaborating on frontend, backend, machine learning, cloud, or engineering-related projects**
 
-- 👨‍💻 All of my projects are available at [https://progambler227788.github.io/Personal_Portfolio_TALHA/](https://progambler227788.github.io/Personal_Portfolio_TALHA/)
+- 👨‍💻 All of my projects are available at Github currently
 
-- 📝 I regularly write articles on [https://medium.com/@talhaatif573](https://medium.com/@talhaatif573)
+- 📝 I write articles on [https://medium.com/@talhaatif573](https://medium.com/@talhaatif573)
 
-- 💬 Ask me about **cpp, kotlin and python**
+- 💬 Ask me about **Python and Java**
 
 - 📫 How to reach me **talhaatif573@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/Progambler227788/my_cv/blob/main/Atif_Talha.pdf](https://github.com/Progambler227788/my_cv/blob/main/Atif_Talha.pdf)
+- 📄 Know about my experiences [https://github.com/Progambler227788/my_cv/blob/main/M.Talha-Atif.pdf](https://github.com/Progambler227788/my_cv/blob/main/M.Talha-Atif.pdf)
 
 - ⚡ Fun fact **I'm not funny**
 
