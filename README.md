@@ -15,21 +15,21 @@
 
 - 🔭 I’m currently working on Spring Boot
 
-- 🌱 I’m currently learning **Machine learning and Kotlin**
+- 🌱 I’m currently learning **Tech Stuff**
 
-- 👯 I’m open to collaborating on frontend, backend, machine learning, cloud, or engineering-related projects**
+- 👯 I’m open to collaborating on frontend, backend, cloud, or engineering-related projects**
 
 - 👨‍💻 All of my projects are available at Github currently
 
 - 📝 I write articles on [https://medium.com/@talhaatif573](https://medium.com/@talhaatif573)
 
-- 💬 Ask me about **Python and Java**
+- 💬 Ask me about **C++, Python and Java**
 
 - 📫 How to reach me **talhaatif573@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/Progambler227788/my_cv/blob/main/M.Talha-Atif.pdf](https://github.com/Progambler227788/my_cv/blob/main/M.Talha-Atif.pdf)
 
-- ⚡ Fun fact **I'm not funny**
+- ⚡ Fun fact **I love to take challenges**
 
 <!--### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
