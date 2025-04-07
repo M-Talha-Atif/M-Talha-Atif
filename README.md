@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on Spring Boot
 
-- 🌱 I’m currently learning **Tech Stuff**
+- 🌱 I’m currently learning **Android Development**
 
 - 👯 I’m open to collaborating on frontend, backend, cloud, or engineering-related projects**
 
@@ -23,7 +23,7 @@
 
 - 📝 I write articles on [https://medium.com/@talhaatif573](https://medium.com/@talhaatif573)
 
-- 💬 Ask me about **C++, Python and Java**
+- 💬 Ask me about **Python and Java**
 
 - 📫 How to reach me **talhaatif573@gmail.com**
 
