@@ -31,6 +31,9 @@
 
 - ⚡ Fun fact **I love to take challenges**
 
+- ![LeetCode 100 Days](https://i.postimg.cc/MKbB80Y5/100-days-leetcode.png)
+
+
 <!--### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
