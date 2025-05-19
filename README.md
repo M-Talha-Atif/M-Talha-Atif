@@ -13,9 +13,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=progambler227788&theme=midnight-purple" alt="progambler227788" /></a> </p>
 
-- 🔭 I’m currently working on Spring Boot
+### 📚 Some of My Repositories
 
-- 🌱 I’m currently learning **Android Development**
+- [Databases](https://github.com/Progambler227788/Databases) – Notes and theory related to databases  
+- [DSA](https://github.com/Progambler227788/DSA) – Data Structures and Algorithms  
+- [OOP](https://github.com/Progambler227788/OOP) – Object-Oriented Programming concepts
 
 - 👯 I’m open to collaborating on frontend, backend, cloud, or engineering-related projects**
 
