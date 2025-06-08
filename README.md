@@ -13,15 +13,18 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=progambler227788&theme=midnight-purple" alt="progambler227788" /></a> </p>
 
-### 📚 Some of My Repositories
+### 📚 Fundamentals Repos
 
 - [Databases](https://github.com/Progambler227788/Databases) – Notes and theory related to databases  
 - [DSA](https://github.com/Progambler227788/DSA) – Data Structures and Algorithms  
 - [OOP](https://github.com/Progambler227788/OOP) – Object-Oriented Programming concepts
 
-- 👯 I’m open to collaborating on frontend, backend, cloud, or engineering-related projects**
+### 📚 Projects Repos
 
-- 👨‍💻 All of my projects are available at Github currently
+- [Event Booking Android App](https://github.com/Progambler227788/TickoJet-Android)  -  Android using Kotlin and XML
+- [Event Booking Backend ](https://github.com/Progambler227788/Event-Booking-System) –  Spring Boot using Java
+
+- 👯 I’m open to collaborating on frontend, backend, cloud, or engineering-related projects or may be teaming up for any hackathon or competition**
 
 - 📝 I write articles on [https://medium.com/@talhaatif573](https://medium.com/@talhaatif573)
 
