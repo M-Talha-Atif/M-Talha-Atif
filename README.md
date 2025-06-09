@@ -24,7 +24,7 @@
 - [Event Booking Android App](https://github.com/Progambler227788/TickoJet-Android)  -  Android using Kotlin and XML
 - [Event Booking Backend ](https://github.com/Progambler227788/Event-Booking-System) –  Spring Boot using Java
 
-- 👯 I’m open to collaborating on frontend, backend, cloud, or engineering-related projects or may be teaming up for any hackathon or competition**
+- 👯 I’m open to collaborating on frontend, backend, cloud, or engineering-related projects or may be teaming up for any hackathon or competition
 
 - 📝 I write articles on [https://medium.com/@talhaatif573](https://medium.com/@talhaatif573)
 
