@@ -13,6 +13,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=progambler227788&theme=midnight-purple" alt="progambler227788" /></a> </p>
 
+## My Coding Activity
+
+| Platform | Link |
+|----------|------|
+| forkyou.dev | [https://forkyou.dev/user/Progambler227788](https://forkyou.dev/user/Progambler227788) |
+| AreYouLocked | [https://areyoulocked.in/@talhaatif195901](https://areyoulocked.in/@talhaatif195901) |
+
 ### 📚 Fundamentals Repos
 
 - [Databases](https://github.com/Progambler227788/Databases) – Notes and theory related to databases  
