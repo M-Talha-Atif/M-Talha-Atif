@@ -1,16 +1,12 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3800&pause=1000&color=7F3ACE&width=500&lines=Muhammad+Talha+Atif+%3A);+++%F0%9F%98%8A;Code.+Build.+Solve.+Repeat.+%F0%9F%9A%80;Breaking+bugs,+not+dreams!+%F0%9F%91%BD;Turning+Logic+into+Reality!+%E2%9C%A8;" alt="Typing SVG" /></a>
-
   
 </div>
 
 <div align="center">
-<img align="center" alt="Coding" width="550" src="https://miro.medium.com/v2/resize:fit:1600/0*C-cPP9D2MIyeexAT.gif"  /> 
+<img align="center" alt="Coding" width="550" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmFrNnh5cDBjbWsyZGpvM3kxY2hnYXRnM3FoMTA4bnhodGZvYXc0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif"  /> 
 </div>
-
-
-
 
 
 ### 📚 Languages (ordered by recent usage)
