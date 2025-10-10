@@ -1,86 +1,72 @@
-<div align="center">
+# 👋 Hi, I’m Muhammad Talha Atif
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3800&pause=1000&color=7F3ACE&width=500&lines=Muhammad+Talha+Atif+%3A);+++%F0%9F%98%8A;Code.+Build.+Solve.+Repeat.+%F0%9F%9A%80;Breaking+bugs,+not+dreams!+%F0%9F%91%BD;Turning+Logic+into+Reality!+%E2%9C%A8;" alt="Typing SVG" /></a>
-  
-</div>
-
-<div align="center">
-<img align="center" alt="Coding" width="550" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmFrNnh5cDBjbWsyZGpvM3kxY2hnYXRnM3FoMTA4bnhodGZvYXc0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif"  /> 
-</div>
-
-
-### 📚 Languages (ordered by recent usage)
-
-* **Java**
-* **JavaScript**
-* **Kotlin**
-* **C++**
-* **C#**
+💻 **Software Engineer | Full Stack Developer | Backend-focused | Problem Solver**  
+Breaking bugs, not dreams! 🚀 Turning logic into reality ✨
 
 ---
 
-### ⚙️ Frameworks & Platforms (ordered by recent usage)
-
-* **Spring Boot**
-* **Android (Native)**
-* **Express.js (with Node.js)**
-* **Windows Forms (C#)**
-
----
-
-### 🗄️ Databases & Storage
-
-* **SQL**
-* **SQLite**
-* **MongoDB**
-
----
-
-### 🌐 APIs & Third-Party Integrations
-
-* **Gemini API**
-* **ChatGPT API**
-* **Stripe API**
-* **Custom REST APIs** (e.g., Sports DB)
-
-
-
-## My Coding Activity
+## 📊 Coding Activity
+Track my daily coding activity:  
 
 | Platform | Link |
 |----------|------|
-| forkyou.dev | [https://forkyou.dev/user/Progambler227788](https://forkyou.dev/user/Progambler227788) |
-| AreYouLocked | [https://areyoulocked.in/@talhaatif195901](https://areyoulocked.in/@talhaatif195901) |
+| forkyou.dev | [Profile](https://forkyou.dev/user/Progambler227788) |
+| AreYouLocked | [Profile](https://areyoulocked.in/@talhaatif195901) |
 
+---
+
+## 🛠️ Skills
+
+### Languages
+**Java • Kotlin • JavaScript • TypeScript • Python**
+
+### Frameworks & Platforms
+**Spring Boot • Android (Native & Jetpack Compose) • React Native • Express.js (Node.js) • MERN Stack • Windows Forms (C#)**
+
+### Databases & Caching
+**SQL • SQLite • MongoDB • Firebase • PostgreSQL • Redis**
+
+---
+
+## 📂 Major Projects (Deployed / Main Repos)
+
+### 🌐 Web & Dashboard
+- **[Leeds Dashboard (FYP)](https://leeds-dashboard.vercel.app/)** – React + Node.js + MongoDB ([Repo](https://github.com/Progambler227788/Leeds-Dashboard)) ✅ Deployed  
+- **[Quiz Zone MERN](https://github.com/Progambler227788/Quiz-Zone-MERN)** – MERN Quiz Web App  
+- **[Memingo Website (Flask)](https://github.com/Progambler227788/MEMINGO_WEBSITE_FLASK)** – Flask Web App  
+- **[Memingo Full-Stack FYP](https://github.com/Progambler227788/Memingo-Full-Stack-FYP)** – MERN Stack  
+- **[SuppliFy](https://github.com/Progambler227788/SuppliFy)** – Spring Boot backend + HTML/CSS/JS frontend  
+
+### 📱 Android Apps
+- **[Youth Sphere](https://github.com/Progambler227788/YOUTH-SPHERE)** – Android Java XML  
+- **[Finoto](https://github.com/Progambler227788/Finance_Tracker_App)** – Android Java XML  
+- **[AI Recipe App](https://github.com/Progambler227788/ai-recipe-app)** – React Native Expo  
+- **[Memingo Android App](https://github.com/Progambler227788/MEMINGO_ANDROID_APP)** – Jetpack Compose  
+
+### ⚙️ Backend & Services
+- **[Quiz MERN Backend](https://github.com/Progambler227788/Quiz-MERN-Backend)** – Express.js API  
+- **[Budget Tracker Backend](https://github.com/Progambler227788/Budget-Tracker-Backend)** – Spring Boot API  
+- **[URL Shortener Service](https://github.com/Progambler227788/url-shortener-service)** – Spring Boot API  
+- **[Journal Application](https://github.com/Progambler227788/JournalApplication-SpringBoot)** – Spring Boot  
+
+---
 
 ### 📚 Fundamentals Repos
 
-- [Databases](https://github.com/Progambler227788/Databases) – Notes and theory related to databases  
-- [DSA](https://github.com/Progambler227788/DSA) – Data Structures and Algorithms  
-- [OOP](https://github.com/Progambler227788/OOP) – Object-Oriented Programming concepts
+- **[Databases](https://github.com/Progambler227788/Databases)** – Notes & theory  
+- **[DSA](https://github.com/Progambler227788/DSA)** – Data Structures & Algorithms  
+- **[OOP](https://github.com/Progambler227788/OOP)** – Object-Oriented Programming  
 
-### 📚 Projects Repos
+---
 
-- [Event Booking Android App](https://github.com/Progambler227788/TickoJet-Android)  -  Android using Kotlin and XML
-- [Event Booking Backend ](https://github.com/Progambler227788/Event-Booking-System) –  Spring Boot using Java
+## 🤝 Collaboration & Contact
 
-- 👯 I’m open to collaborating on frontend, backend, cloud, or engineering-related projects or may be teaming up for any hackathon or competition
-
-- 📝 I write articles on [https://medium.com/@talhaatif573](https://medium.com/@talhaatif573)
-
-- 💬 Ask me about **Backend and Android**
-
-- 📫 How to reach me **talhaatif573@gmail.com**
+- 👯 Open to collaborations on **frontend, backend, cloud**, or hackathons  
+- 📝 I write articles on [Medium](https://medium.com/@talhaatif573)  
+- 💬 Ask me about **Backend & Android Development**  
+- 📫 Reach me at **talhaatif573@gmail.com**
 
 
-## Problem Solving 
-
-<img src="https://i.postimg.cc/MKbB80Y5/100-days-leetcode.png" alt="LeetCode 100 Days" width="150" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2);"/>
-
-
-<!--### Blogs posts -->
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
