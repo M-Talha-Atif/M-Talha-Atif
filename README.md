@@ -1,7 +1,7 @@
-# 👋 Hi, I’m Muhammad Talha Atif
+# Hey there, I’m Muhammad Talha Atif
 
-💻 **Software Engineer | Full Stack Developer | Backend-focused | Problem Solver**  
-Breaking bugs, not dreams! 🚀 Turning logic into reality ✨
+**Software Engineer | Full Stack Developer | Backend-focused | Problem Solver**  
+Breaking bugs, not dreams! Turning logic into reality
 
 ---
 
@@ -31,7 +31,7 @@ Track my daily coding activity:
 ## 📂 Major Projects (Deployed / Main Repos)
 
 ### 🌐 Web & Dashboard
-- **[Leeds Dashboard (FYP)](https://leeds-dashboard.vercel.app/)** – React + Node.js + MongoDB ([Repo](https://github.com/Progambler227788/Leeds-Dashboard)) ✅ Deployed  
+- **[Leeds Dashboard (FYP)](https://leeds-dashboard.vercel.app/)** – React + Node.js + MongoDB ([Repo](https://github.com/Progambler227788/Leeds-Dashboard)) Deployed  
 - **[Quiz Zone MERN](https://github.com/Progambler227788/Quiz-Zone-MERN)** – MERN Quiz Web App  
 - **[Memingo Website (Flask)](https://github.com/Progambler227788/MEMINGO_WEBSITE_FLASK)** – Flask Web App  
 - **[Memingo Full-Stack FYP](https://github.com/Progambler227788/Memingo-Full-Stack-FYP)** – MERN Stack  
