@@ -5,6 +5,18 @@ Breaking bugs, not dreams! Turning logic into reality
 
 ---
 
+## 🚀 Live Projects
+
+### 🧠 [Memingo – Language Learning Platform](https://memingo-frontend-sooty.vercel.app/)
+**Status:** MVP Ready  
+An interactive web app that helps users learn new languages through gamified lessons and spaced repetition.
+
+---
+
+### 💼 [Leeds – Internal Financial Dashboard](https://leeds-dashboard.vercel.app/)
+A real-time financial analytics dashboard handling **100+ daily requests**, built to visualize and manage internal financial data efficiently.
+
+
 ## 📊 Coding Activity
 Track my daily coding activity:  
 
