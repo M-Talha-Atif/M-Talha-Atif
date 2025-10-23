@@ -10,6 +10,7 @@ Breaking bugs, not dreams! Turning logic into reality
 ### 🧠 [Memingo – Language Learning Platform](https://memingo-frontend-sooty.vercel.app/)
 **Status:** MVP Ready  
 An interactive web app that helps users learn new languages through gamified lessons and spaced repetition.
+![Memingo](https://github.com/M-Talha-Atif/M-Talha-Atif/Memingo_MockUp.png)
 
 ---
 
