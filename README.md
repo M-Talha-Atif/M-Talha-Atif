@@ -40,7 +40,7 @@ Track my daily coding activity:
 
 ---
 
-## 📂 Major Projects (Deployed / Main Repos)
+## 📂 Major Projects Repos
 
 ### 🌐 Web & Dashboard
 - **[Leeds Dashboard (FYP)](https://leeds-dashboard.vercel.app/)** – React + Node.js + MongoDB ([Repo](https://github.com/Progambler227788/Leeds-Dashboard)) Deployed  
