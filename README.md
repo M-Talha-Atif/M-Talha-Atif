@@ -5,6 +5,8 @@ Breaking bugs, not dreams! Turning logic into reality
 
 ---
 
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=TalhaAtif&theme=dark&border=border&animated=true" alt="LeetCode Badges" />
+
 ##  Live Projects
 
 ###  [Memingo – Language Learning Platform](https://memingo-frontend-sooty.vercel.app/)
@@ -35,14 +37,17 @@ Track my daily coding activity:
 
 ## 🛠️ Skills
 
-### Languages
-**Java • Kotlin • JavaScript • TypeScript • Python**
+### Languages (Primary)
+**Java • JavaScript**
+
+### Languages (Secondary)
+**Kotlin • C++ • Python • C# • PHP**
 
 ### Frameworks & Platforms
-**Spring Boot • Android (Native & Jetpack Compose) • React Native • Express.js (Node.js) • MERN Stack • Windows Forms (C#)**
+**Spring Boot (Primary) • Android (Native & Jetpack Compose) • React Native • Express.js (Node.js) • MERN Stack • Windows Forms (C#)**
 
 ### Databases & Caching
-**SQL • SQLite • MongoDB • Firebase • PostgreSQL • Redis**
+**SQL • SQLite • MongoDB • Firebase • PostgreSQL (Primary) • Redis**
 
 ---
 
