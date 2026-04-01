@@ -1,6 +1,6 @@
 # Hey there, I’m Muhammad Talha Atif
 
-**Software Engineer | Full Stack Developer | Backend-focused | Problem Solver**  
+**Software Engineer | Full Stack Engineer | Backend-focused | Problem Solver**  
 Breaking bugs, not dreams! Turning logic into reality
 
 ---
