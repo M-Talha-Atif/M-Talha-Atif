@@ -1,6 +1,6 @@
 # Muhammad Talha Atif
 
-**Full Stack Engineer | MERN | PERN | React Native | Agentic AI | Spring Boot | Python**  
+**Full Stack Engineer | MERN | Agentic AI | Spring Boot | Python**  
 I build production systems, not prototypes.
 
 ---
