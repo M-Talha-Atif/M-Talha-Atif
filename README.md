@@ -25,13 +25,11 @@ Currently deepening my skills in AI agents, LangGraph, and open source contribut
 Built an enterprise IAM platform from the ground up, owning the full stack from Java Spring Boot microservices to the React and Next.js dashboard.
 
 Key work delivered:
-- Designed and shipped the end-to-end Access Portal covering tile management, cart, multi-user role requests, approvals, provisioning, and audit logging
-- Built Kafka-based event-driven pipelines for approval orchestration and audit trails across 8+ distributed services with consumer concurrency, retry windows, and dead-letter queues
-- Designed a bulk role assignment API supporting 5,000+ users per operation using batch queries with flat latency at scale
-- Built the entitlement rule engine with grouped condition evaluation, CRON and event-based scheduling, and post-commit TransactionalEventListener for safe automated policy execution
-- Led zero-downtime OpenSearch migration reindexing 5M+ documents using index templates and alias switching
-- Implemented Spring Security, JWT, and RBAC across all service endpoints with full audit logging on every state transition
-- Resolved a critical Hibernate MultiBagFetchException blocking the request detail API and caught two production-impact rule engine bugs through systematic testing before release
+- Migrated synchronous service-to-service communication from REST to gRPC, reducing inter-service latency by 50%.
+- Resolved Spring AOP self-invocation bypass, restoring audit guarantee across affected service methods.
+- Refactored audit log schema to be PII-free, restoring compliance alignment without losing forensic traceability.
+- Architected the generic rule-based engine for assigning roles, entitlements, and access items to identities through grouped condition evaluation, CRON and event-based scheduling.
+- Standardised the frontend theme, color system, and shared component library across the Next.js dashboard, documenting conventions that improved consistency and reduced UI drift across the team.
 
 **Stack:** Java, Spring Boot, Spring Security, Kafka, gRPC, PostgreSQL, OpenSearch, React, Next.js, TypeScript, Docker, GitHub Actions
 
@@ -45,9 +43,9 @@ Built and maintained production features for a social networking platform servin
 Key work delivered:
 - Optimised feed loading from 3 seconds to 700ms through selective indexing, query optimisation, DTO cleanup, and a 5-minute in-memory post cache
 - Built Reported Posts and Reported Comments systems end to end including database schema, REST APIs with popularity ranking logic, and admin moderation UI
-- Fixed a notification duplication and real-time consistency bug by replacing non-transactional queries with proper database transactions
-- Led zero-downtime production migration to Fly.io covering Docker, DNS, Supabase, and email provider cutover on a live platform
-- Resolved cross-platform rendering issues on Android and iOS Safari causing scroll lag and input handling failures
+- Fixed duplicate notifications by redesigning concurrent writes with proper transactions.
+- Led a zero-downtime migration from AWS to Fly.io, reworking infrastructure, CI/CD, DNS, and service configuration on a live platform.
+- Resolved Android, iOS, and Safari rendering issues by tracing client-side performance bottlenecks and restoring consistent cross-platform behaviour.
 
 **Stack:** Node.js, Express.js, React, Next.js, TypeScript, Supabase, PostgreSQL, WebSockets, Docker, Fly.io, GitHub Actions
 
