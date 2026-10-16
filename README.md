@@ -11,7 +11,7 @@ I build production systems, not prototypes.
 
 ## About Me
 
-Full Stack Engineer with 2+ years of experience building distributed backend systems, enterprise IAM platforms, and AI-integrated applications. I have shipped production features across identity governance, social platforms, edtech, and AI booking domains.
+Full Stack Engineer with 3+ years of experience building distributed backend systems, enterprise IAM platforms, and AI-integrated applications. I have shipped production features across identity governance, social platforms, edtech, and AI booking domains.
 
 Currently deepening my skills in AI agents, LangGraph, and open source contributions.
 
