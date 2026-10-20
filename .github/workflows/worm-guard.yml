@@ -15,7 +15,7 @@ jobs:
         with:
           persist-credentials: false
       - name: Scan for worm artifacts
-        shell: bash
+        shell: bash {0}
         run: |
           # worm-guard: detects artifacts of the PolinRider / Contagious-Interview worm in a git repo.
           # usage: worm-guard.sh [--cached]   (--cached checks the staged index instead of the working tree)
